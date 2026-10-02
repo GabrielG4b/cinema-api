@@ -490,8 +490,7 @@ O arquivo `.env` deve permanecer fora do controle de versão através do `.gitig
 # 👥 Equipe
 
 * Gabriel Alberto Garcia
-* Integrante 2
-* Integrante 3
+* Gabriella kaylane
 
 ---
 
