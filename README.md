@@ -98,30 +98,15 @@ A estrutura final planejada para o projeto é:
 cinema-api/
 │
 ├── src/
-│   ├── config/
-│   │   └── supabase.ts
-│   │
-│   ├── controllers/
-│   │   ├── filme.controller.ts
-│   │   └── sessao.controller.ts
-│   │
-│   ├── models/
-│   │   ├── filme.model.ts
-│   │   └── sessao.model.ts
-│   │
-│   ├── routes/
-│   │   ├── filme.routes.ts
-│   │   └── sessao.routes.ts
-│   │
 │   └── server.ts
 │
 ├── .env
 ├── .env.example
 ├── .gitignore
+├── README.md
 ├── package.json
 ├── package-lock.json
-├── tsconfig.json
-└── README.md
+└── tsconfig.json
 ```
 
 ### Responsabilidade das camadas
